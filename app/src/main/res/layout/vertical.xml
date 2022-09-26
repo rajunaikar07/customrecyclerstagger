@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="#4FFFB300"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:src="@drawable/img_10"
+        android:id="@+id/image_1"
+        android:padding="10dp"/>
+<!--    <LinearLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:orientation="vertical">-->
+
+<!--&lt;!&ndash;        <TextView&ndash;&gt;-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="name"-->
+<!--            android:textSize="20sp"-->
+<!--            android:id="@+id/name_txt"-->
+<!--            android:textColor="@color/purple_700"-->
+<!--            android:textStyle="bold" />-->
+    </LinearLayout>
+<!--</LinearLayout>-->
